@@ -1,0 +1,21 @@
+<html>
+<head>
+</head>
+<title>Terms and Conditions</title>
+<body style=" background: url(https://media.istockphoto.com/id/944880340/photo/chaotic-black-low-poly-surface-abstract-3d-render.jpg?b=1&s=170667a&w=0&k=20&c=_zTTb5QQqP9yjC1WYh1pzolYb70MEE11rVm23rxBDgo=);
+		    background-size:cover;
+		    background-repeat: no-repeat;">
+<h1  style="color:#66ff33;"><center>Terms and Conditions Preview</center></h1> 
+<h5  style="color:#66ff33;"><center>Last updated on February 25,2023</center></h5><br>
+<h2  style="color:#66ff33;"><center>Agreement to our Legal Terms</center></h2><br><br><br>
+<font color="#66ff33"><center>We are Recipe Share ('Company', 'we', 'us', or 'our'), a company registered in India at Kolkata, India, Kolkata, West Bengal 700059.<br>
+We operate the website http://www.recipeshare.co (the 'Site'), as well as any other related products and services that refer or link to these legal terms (the 'Legal Terms') (collectively, the 'Services').<br>
+We provide an interactive platform where we can share, post, explore wide variety of foods across the globe.<br>
+You can contact us by phone at 7384130565, email at rnabarun711@gmail.com, or by mail to Kolkata,West Bengal 700059, India.<br>
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ('you'), and Recipe Share, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.<br>
+Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms at any time and for any reason. We will alert you about any changes by updating the 'Last updated' date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.<br>
+All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Services. If you are a minor, you must have your parent or guardian read and agree to these Legal Terms prior to you using the Services.
+</center>
+</font>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>About Us</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    .About-us {
+	  width: 100%;
+	  text-align: center;
+	 
+	  margin-top: 30px;
+	  margin-bottom: 30px;
+	}
+	h1{
+	  color: red;
+	  font-size: 35px;
+	}
+	img {
+	  border-radius: 50%;
+	}
+	
+	p {
+	  font-size: 20px;
+	} 
+    h3 {
+	  text-shadow:
+	}
+    a {
+      padding: 20px;
+	  text-align: center;
+	  text-decoration: none;
+	  margin: 5px 2px;
+	  background: #3B5998;
+      color: white;
+	  border-radius: 8px;
+	 font-size: 50px;	  
+   } 
+</style>
+</head>
+<body style=" background: url(https://media.istockphoto.com/id/944880340/photo/chaotic-black-low-poly-surface-abstract-3d-render.jpg?b=1&s=170667a&w=0&k=20&c=_zTTb5QQqP9yjC1WYh1pzolYb70MEE11rVm23rxBDgo=);
+		    background-size:cover;
+		    background-repeat: no-repeat;" >
+  <div class="About-us">
+    <h1> About Us </h1>
+	<img src="C:\Users\Liavam\Pictures\Screenshots/RS.png">
+	<p><font color="#ff6633">Our mission is to enhance the experience of all the foodies out there. </p>
+	<hr>
+	<p> In our website you can share your favourite recipes with everyone. You can explore recipes shared by others all around the globe and savour delicious bites. </p>
+    <p>You can also chat globally with people from all corners of the world. </p>
+    <p>We are working to turn our passion for foods into a booming online website.</p>
+    <p>We are dedicated to deliver to you the best experience in this website. Please give your support and love. </p>
+   <h3> FOLLOW US ON </h3>
+   <a href="#" class="fa fa-facebook"></a> 
+   <a href="#" class="fa fa-twitter"></a> 
+   <a href="#" class="fa fa-linkedin"></a> 
+  </div>
+</body>
+</html>

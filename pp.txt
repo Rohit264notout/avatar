@@ -1,0 +1,26 @@
+<html>
+<head>
+</head>
+<title>Privacy</title>
+<body style=" background: url(https://media.istockphoto.com/id/944880340/photo/chaotic-black-low-poly-surface-abstract-3d-render.jpg?b=1&s=170667a&w=0&k=20&c=_zTTb5QQqP9yjC1WYh1pzolYb70MEE11rVm23rxBDgo=);
+		    background-size:cover;
+		    background-repeat: no-repeat;">
+<h1  style="color:#66ff33;"><center>Privacy Policy</center></h1>
+<h5 style="color:#66ff33;"> <center>Last updated on February 25,2023</center></h5>
+<font color="#ff3333">
+<p align="center"> This privacy notice for our website Recipe Share describes how and why we might collect, store, use, and/or share("process") your information when you use our services.</p>
+<p align="center">Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us.</p>
+<h2 style="color:#66ff33;">Summary of Key Points</h2>
+This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point.<br>
+<b><i>What personal information do we process?</b></i> When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Recipe Share and the Services, the choices you make, and the products and features you use.<br><br>
+<b><i>Do we process any sensitive personal information?</b></i> We do not process sensitive personal information.<br>
+<b><i>Do we receive any information from third parties?</b></i> We may receive information from public databases, marketing partners, social media platforms, and other outside sources.<br><br>
+<b><i>How do we process your information? </b></i>We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so.<br><br>
+<b><i>In what situations and with which parties do we share personal information?</b></i> We may share information in specific situations and with specific third parties.<br><br>
+<b><i>What are your rights?</b></i> Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information.<br><br>
+<b><i>How do you exercise your rights? The easiest way to exercise your rights is by filling out our data subject request form available here, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+</body>
+</html>
+
+
+
